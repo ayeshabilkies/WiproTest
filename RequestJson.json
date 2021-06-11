@@ -1,0 +1,10 @@
+{
+"aadharDetails": {
+"aadharId": 1,
+"name": "Jhon",
+"dob": "1975-01-01",
+"gender": "male"
+},
+"name": "Jhon Doe",
+"vaccinationTimeSlot": "2021-06-11"
+}
